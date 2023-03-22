@@ -1,0 +1,13 @@
+.fs{
+    font-family: 'Fira Sans', sans-serif;
+
+}
+
+.card img{
+    width: 100%;
+    height: 300px;
+}
+
+.carousal-item img{
+   height:300px;
+}
